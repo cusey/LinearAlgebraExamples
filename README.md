@@ -4,6 +4,15 @@
 ## Introduction     
 * Vector is a list of numbers
 * Matrix is like a spreadsheet of numbers
+
+Linear algebra is used to solve problems in engineering, calculus, differential equations, finance, economics,
+biology, ect...
+
+The compactness and elegance of linear algebra is intrinsically satisfying.
+
+The smooth links between algebra and geometric ard beautiful.  
+
+Linear algebra is the backbone of most  modern computational algorithms, and therefore learning linear algebra will improve your programming skills. 
   
 ## Terminology  
 ### When People say:
